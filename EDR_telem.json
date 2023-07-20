@@ -251,7 +251,8 @@
     "Sysmon":"No",
     "Trellix":"Yes",
     "Trend Micro":"No",
-    "WatchGuard":"Yes"
+    "WatchGuard":"Yes",
+    "Palo Alto Networks:"Yes"
   },
   {
     "Telemetry Feature Category":null,
@@ -267,7 +268,8 @@
     "Sysmon":"No",
     "Trellix":"Yes",
     "Trend Micro":"No",
-    "WatchGuard":"Yes"
+    "WatchGuard":"Yes",
+    "Palo Alto Networks:"Yes"
   },
   {
     "Telemetry Feature Category":"Network Activity",
@@ -283,7 +285,8 @@
     "Sysmon":"Yes",
     "Trellix":"Yes",
     "Trend Micro":"Yes",
-    "WatchGuard":"Yes"
+    "WatchGuard":"Yes",
+    "Palo Alto Networks:"Yes"
   },
   {
     "Telemetry Feature Category":null,
@@ -299,7 +302,8 @@
     "Sysmon":"Yes",
     "Trellix":"Yes",
     "Trend Micro":"Yes",
-    "WatchGuard":"Yes"
+    "WatchGuard":"Yes",
+    "Palo Alto Networks:"Yes"
   },
   {
     "Telemetry Feature Category":null,
@@ -315,7 +319,8 @@
     "Sysmon":"No",
     "Trellix":"Yes",
     "Trend Micro":"No",
-    "WatchGuard":"Partially"
+    "WatchGuard":"Partially",
+    "Palo Alto Networks:"Partially"
   },
   {
     "Telemetry Feature Category":null,
@@ -331,7 +336,8 @@
     "Sysmon":"Yes",
     "Trellix":"Yes",
     "Trend Micro":"Yes",
-    "WatchGuard":"Yes"
+    "WatchGuard":"Yes",
+    "Palo Alto Networks:"Partially"
   },
   {
     "Telemetry Feature Category":null,
@@ -347,7 +353,8 @@
     "Sysmon":"No",
     "Trellix":"No",
     "Trend Micro":"Yes",
-    "WatchGuard":"Yes"
+    "WatchGuard":"Yes",
+    "Palo Alto Networks:"Yes"
   },
   {
     "Telemetry Feature Category":"Hash Algorithms",
@@ -363,7 +370,8 @@
     "Sysmon":"Yes",
     "Trellix":"Yes",
     "Trend Micro":"Yes",
-    "WatchGuard":"Yes"
+    "WatchGuard":"Yes",
+    "Palo Alto Networks:"Yes"
   },
   {
     "Telemetry Feature Category":null,
@@ -379,7 +387,8 @@
     "Sysmon":"Yes",
     "Trellix":"Yes",
     "Trend Micro":"Yes",
-    "WatchGuard":"No"
+    "WatchGuard":"No",
+    "Palo Alto Networks:"Yes"
   },
   {
     "Telemetry Feature Category":null,
@@ -395,7 +404,8 @@
     "Sysmon":"Yes",
     "Trellix":"No",
     "Trend Micro":"No",
-    "WatchGuard":"No"
+    "WatchGuard":"No",
+    "Palo Alto Networks:"No"
   },
   {
     "Telemetry Feature Category":"Registry Activity",
