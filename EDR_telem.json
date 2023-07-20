@@ -13,7 +13,8 @@
     "Sysmon":"Yes",
     "Trellix":"Yes",
     "Trend Micro":"Yes",
-    "WatchGuard":"Yes"
+    "WatchGuard":"Yes", 
+    "Palo Alto Networks:"Yes"
   },
   {
     "Telemetry Feature Category":null,
@@ -29,7 +30,8 @@
     "Sysmon":"Yes",
     "Trellix":"No",
     "Trend Micro":"Via EventLogs",
-    "WatchGuard":"No"
+    "WatchGuard":"No",
+    "Palo Alto Networks:"Yes"
   },
   {
     "Telemetry Feature Category":null,
@@ -45,7 +47,8 @@
     "Sysmon":"Yes",
     "Trellix":"Yes",
     "Trend Micro":"Yes",
-    "WatchGuard":"No"
+    "WatchGuard":"No",
+    "Palo Alto Networks:"Yes"
   },
   {
     "Telemetry Feature Category":null,
@@ -61,7 +64,8 @@
     "Sysmon":"Yes",
     "Trellix":"Yes",
     "Trend Micro":"Yes",
-    "WatchGuard":"Yes"
+    "WatchGuard":"Yes",
+    "Palo Alto Networks:"Yes"
   },
   {
     "Telemetry Feature Category":null,
@@ -77,7 +81,8 @@
     "Sysmon":"Yes",
     "Trellix":"Yes",
     "Trend Micro":"Yes",
-    "WatchGuard":"Yes"
+    "WatchGuard":"Yes",
+    "Palo Alto Networks:"Yes"
   },
   {
     "Telemetry Feature Category":null,
@@ -93,7 +98,8 @@
     "Sysmon":"Yes",
     "Trellix":"Yes",
     "Trend Micro":"Yes",
-    "WatchGuard":"No"
+    "WatchGuard":"No",
+    "Palo Alto Networks:"Yes"
   },
   {
     "Telemetry Feature Category":"File Manipulation",
@@ -109,7 +115,8 @@
     "Sysmon":"Yes",
     "Trellix":"Yes",
     "Trend Micro":"Yes",
-    "WatchGuard":"Partially"
+    "WatchGuard":"Partially",
+    "Palo Alto Networks:"Yes"
   },
   {
     "Telemetry Feature Category":null,
@@ -125,7 +132,8 @@
     "Sysmon":"No",
     "Trellix":"Yes",
     "Trend Micro":"No",
-    "WatchGuard":"Partially"
+    "WatchGuard":"Partially",
+    "Palo Alto Networks:"Yes"
   },
   {
     "Telemetry Feature Category":null,
@@ -141,7 +149,8 @@
     "Sysmon":"Yes",
     "Trellix":"Yes",
     "Trend Micro":"No",
-    "WatchGuard":"No"
+    "WatchGuard":"No",
+    "Palo Alto Networks:"Yes"
   },
   {
     "Telemetry Feature Category":null,
@@ -157,7 +166,8 @@
     "Sysmon":"No",
     "Trellix":"Yes",
     "Trend Micro":"Yes",
-    "WatchGuard":"No"
+    "WatchGuard":"No",
+    "Palo Alto Networks:"Yes"
   },
   {
     "Telemetry Feature Category":null,
@@ -173,7 +183,8 @@
     "Sysmon":"No",
     "Trellix":"Yes",
     "Trend Micro":"No",
-    "WatchGuard":"Partially"
+    "WatchGuard":"Partially",
+    "Palo Alto Networks:"Yes"
   },
   {
     "Telemetry Feature Category":"User Account Activity",
