@@ -200,7 +200,8 @@
     "Sysmon":"No",
     "Trellix":"Yes",
     "Trend Micro":"No",
-    "WatchGuard":"No"
+    "WatchGuard":"No",
+    "Palo Alto Networks:"Yes"
   },
   {
     "Telemetry Feature Category":null,
@@ -216,7 +217,8 @@
     "Sysmon":"No",
     "Trellix":"Yes",
     "Trend Micro":"No",
-    "WatchGuard":"No"
+    "WatchGuard":"No",
+    "Palo Alto Networks:"Yes"
   },
   {
     "Telemetry Feature Category":null,
@@ -232,7 +234,8 @@
     "Sysmon":"No",
     "Trellix":"Yes",
     "Trend Micro":"No",
-    "WatchGuard":"No"
+    "WatchGuard":"No",
+    "Palo Alto Networks:"Yes"
   },
   {
     "Telemetry Feature Category":null,
